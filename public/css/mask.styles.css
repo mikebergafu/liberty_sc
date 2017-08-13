@@ -1,0 +1,23 @@
+.mask-banner{
+    background-color: #ff6347;
+    color: #ffffff;
+}
+
+.cus-panel-head{
+    background-color: #ffeb67;
+    color: #000000;
+}
+
+.mask-all-label-width{
+    width: 100px;
+}
+
+.general{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.a-link:hover{
+    text-decoration:none;
+    background-color:#090;
+    color:#fff;
+}
